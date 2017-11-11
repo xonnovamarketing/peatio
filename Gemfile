@@ -7,6 +7,8 @@ gem 'mysql2'
 gem 'daemons-rails'
 gem 'redis-rails'
 
+gem 'puma', '~> 3.7'
+
 gem 'rotp'
 gem 'json'
 gem 'jbuilder'
